@@ -1,5 +1,5 @@
 
-# 2021 Template React App
+# Nexus Todos
 
 ## Setting up
 1. `npm install`
