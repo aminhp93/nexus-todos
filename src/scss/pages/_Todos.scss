@@ -1,0 +1,30 @@
+.Todos {
+
+}
+
+.Todos-input-container {
+    position: relative;
+
+    .Todos-input {
+        padding-left: 54px;
+        height: 50px;
+    }
+}
+
+.Todos-check-all {
+    position: absolute;
+    z-index: 1;
+    left: 18px;
+    top: 16px;
+    cursor: pointer;
+}
+
+.Todos-title {
+    justify-content: center;
+    font-size: 30px;
+}
+
+.Todos-datepicker {
+    height: 50px;
+    width: 300px;
+}
